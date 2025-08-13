@@ -1,1 +1,1 @@
-ami = "ami-0de716d6197524dd9"
+# ami = "ami-0de716d6197524dd9"
